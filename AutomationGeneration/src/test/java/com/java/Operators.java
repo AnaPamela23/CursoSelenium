@@ -47,7 +47,9 @@ public class Operators {
 				System.out.println("A y B son valores diferentes");
 		
 				
-//				Condicionales
+//				Condicionales 
+//				&& and
+//				|| or
 				
 				int var1 =5;
 				int var2 =5;

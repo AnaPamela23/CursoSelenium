@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Open Browser "OrangeHRM" web page]]>
+    </line>
+    <line>
+      <![CDATA[Enter Username and Password]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20704" started-at="2021-02-13T11:17:35 CST" finished-at="2021-02-13T11:17:56 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20704" started-at="2021-02-13T11:17:35 CST" finished-at="2021-02-13T11:17:56 CST">
+      <class name="com.opensource.admin.qa.TC001_Admin_SearchEmployee">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.opensource.admin.qa.TC001_Admin_SearchEmployee@23faf8f2]" name="beforeTest" is-config="true" duration-ms="18" started-at="2021-02-13T11:17:35 CST" finished-at="2021-02-13T11:17:35 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TC001_Admin_SearchEmployee_tc()[pri:0, instance:com.opensource.admin.qa.TC001_Admin_SearchEmployee@23faf8f2]" name="TC001_Admin_SearchEmployee_tc" duration-ms="20619" started-at="2021-02-13T11:17:35 CST" finished-at="2021-02-13T11:17:56 CST">
+          <reporter-output>
+            <line>
+              <![CDATA[Open Browser "OrangeHRM" web page]]>
+            </line>
+            <line>
+              <![CDATA[Enter Username and Password]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC001_Admin_SearchEmployee_tc -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.opensource.admin.qa.TC001_Admin_SearchEmployee@23faf8f2]" name="afterTest" is-config="true" duration-ms="1" started-at="2021-02-13T11:17:56 CST" finished-at="2021-02-13T11:17:56 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.opensource.admin.qa.TC001_Admin_SearchEmployee -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -9,7 +9,7 @@ public class Operators {
 		int x= 2;
 		int y= 3; 
 		
-		int z= x * y;
+		int z= x % y;
 		System.out.println("Este es el valor de z:" + z);
 		
 //		Unarios
